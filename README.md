@@ -73,8 +73,13 @@ The Over-the-Air Defenders (OTA) Project aimed to develop a secure and efficient
 </ul>
 
 # Screenshots
-![Ardueno](https://github.com/user-attachments/assets/5f194d39-efd4-4a99-8039-6014c257545a)
+Image-1
 ![Gantt chart](https://github.com/user-attachments/assets/3026c598-4d70-4fed-b239-f994dcccdd48)
-![updating firmware 2 0](https://github.com/user-attachments/assets/304427fb-d78a-4abb-8136-bd6d73c0fdcf)
+Image-2
+![Ardueno](https://github.com/user-attachments/assets/5f194d39-efd4-4a99-8039-6014c257545a)
+Image-3
 ![updating firmware](https://github.com/user-attachments/assets/b09e617d-d0f4-42e8-a51b-e34a88c93af9)
+Image-4
+![updating firmware 2 0](https://github.com/user-attachments/assets/304427fb-d78a-4abb-8136-bd6d73c0fdcf)
+
 

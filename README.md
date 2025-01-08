@@ -24,7 +24,7 @@ The Over-the-Air Defenders (OTA) Project aimed to develop a secure and efficient
 </ul>
 
 # Steps
-<br><b>Requirements Gathering</b>
+<br><b>Requirements Gathering<b>
 <ul>
   <li>Define the project scope and regulatory requirements.</li>
   <li>Identify hardware/software specifications and user interface needs.</li>

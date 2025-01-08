@@ -75,7 +75,7 @@ The Over-the-Air Defenders (OTA) Project aimed to develop a secure and efficient
 # Screenshots
 Image-1 This image of Gantt chart which shows all the parts which was completed for the project.<br> 
 ![Gantt chart](https://github.com/user-attachments/assets/3026c598-4d70-4fed-b239-f994dcccdd48)
-Image-2
+Image-2 Arduino microcontroller imitating as a car and which is used to complete the update<br>
 ![Ardueno](https://github.com/user-attachments/assets/5f194d39-efd4-4a99-8039-6014c257545a)
 Image-3
 ![updating firmware](https://github.com/user-attachments/assets/b09e617d-d0f4-42e8-a51b-e34a88c93af9)

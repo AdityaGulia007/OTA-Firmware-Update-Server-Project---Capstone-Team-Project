@@ -73,7 +73,7 @@ The Over-the-Air Defenders (OTA) Project aimed to develop a secure and efficient
 </ul>
 
 # Screenshots
-Image-1
+Image-1 This image of Gantt chart which shows all the parts which was completed for the project.<br> 
 ![Gantt chart](https://github.com/user-attachments/assets/3026c598-4d70-4fed-b239-f994dcccdd48)
 Image-2
 ![Ardueno](https://github.com/user-attachments/assets/5f194d39-efd4-4a99-8039-6014c257545a)

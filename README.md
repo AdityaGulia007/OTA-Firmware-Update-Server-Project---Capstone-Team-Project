@@ -77,9 +77,9 @@ Image-1 This image of Gantt chart which shows all the parts which was completed 
 ![Gantt chart](https://github.com/user-attachments/assets/3026c598-4d70-4fed-b239-f994dcccdd48)
 <br>Image-2 Arduino microcontroller imitating as a car and which is used to complete the update<br>
 ![Ardueno](https://github.com/user-attachments/assets/5f194d39-efd4-4a99-8039-6014c257545a)
-Image-3
+<br>Image-3 Update is being carried out and the update version is 1.0<br>
 ![updating firmware](https://github.com/user-attachments/assets/b09e617d-d0f4-42e8-a51b-e34a88c93af9)
-Image-4
+<br>Image-4 Update is completed and now the firmware is on the newer version 2.0<br>
 ![updating firmware 2 0](https://github.com/user-attachments/assets/304427fb-d78a-4abb-8136-bd6d73c0fdcf)
 
 

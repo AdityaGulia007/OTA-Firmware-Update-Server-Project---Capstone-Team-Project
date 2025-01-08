@@ -25,33 +25,33 @@ The Over-the-Air Defenders (OTA) Project aimed to develop a secure and efficient
 
 # Steps
 <b>Requirements Gathering</b><br>
-Define the project scope and regulatory requirements (UNECE WP.29, ISO/SAE 21434).
-Identify hardware/software specifications and user interface needs.
+  <li>Define the project scope and regulatory requirements.</li>
+  <li>Identify hardware/software specifications and user interface needs.</li>
 
 <b>System Design</b><br>
-Develop an OTA update framework using AWS IoT Core.
-Design a decentralized database architecture and integrate blockchain for secure tracking.
-Create UI wireframes for intuitive system management.
+  <li>Develop an OTA update framework using AWS IoT Core.</li>
+  <li>Design a decentralized database architecture and integrate blockchain for secure tracking.</li>
+  <li>Create UI wireframes for intuitive system management.</li>
 
 <b>Implementation</b><br>
-Configure Arduino devices with Wi-Fi modules.
-Set up AWS IoT infrastructure and deploy initial OTA framework.
-Integrate RSA cryptography for secure updates.
-Implement blockchain logging and decentralized database functionality.
+  <li>Configure Arduino devices with Wi-Fi modules.</li>
+  <li>Set up AWS IoT infrastructure and deploy initial OTA framework.</li>
+  <li>Integrate RSA cryptography for secure updates.</li>
+  <li>Implement blockchain logging and decentralized database functionality.</li>
 
 <b>Testing</b><br>
-Validate OTA framework functionality and connectivity of Arduino devices.
-Test blockchain and database models for scalability and performance.
-Review UI design for usability and accessibility.
+  <li>Validate OTA framework functionality and connectivity of Arduino devices.</li>
+  <li>Test blockchain and database models for scalability and performance.</li>
+  <li>Review UI design for usability and accessibility.</li>
 
 <b>Deployment</b><br>
-Deploy the production-ready OTA firmware update system.
-Launch decentralized database and blockchain logging servers.
-Finalize the secure and user-friendly admin interface.
+  <li>Deploy the production-ready OTA firmware update system.</li>
+  <li>Launch decentralized database and blockchain logging servers.</li>
+  <li>Finalize the secure and user-friendly admin interface.</li>
 
 <b>Risk Management</b><br>
-Implement role-based access control and audit logs to mitigate insider threats.
-Conduct regular assessments to address blockchain and OTA vulnerabilities.
+  <li>Implement role-based access control and audit logs to mitigate insider threats.</li>
+  <li>Conduct regular assessments to address blockchain and OTA vulnerabilities.</li>
 Maintain compliance with cybersecurity standards and regulations.
 
 <b>Monitoring and Improvement</b><br>

@@ -1,7 +1,7 @@
 # OTA-Firmware-Update-Server-Project---Capstone-Team-Project
 
 # Objective
-The Over-the-Air Defenders (OTA) Project aimed to develop a secure and efficient firmware update system for IoT devices. Leveraging Arduino hardware, decentralized databases, and advanced security measures such as RSA cryptography and blockchain, the project emphasized cybersecurity and compliance. The goal was to create a scalable, secure OTA solution while demonstrating expertise in IoT management, AWS services, and regulatory adherence.
+This Project was a team project which consisted 5 people. The Over-the-Air Defenders (OTA) Project aimed to develop a secure and efficient firmware update system for IoT devices. Leveraging Arduino hardware, decentralized databases, and advanced security measures such as RSA cryptography and blockchain, the project emphasized cybersecurity and compliance. The goal was to create a scalable, secure OTA solution while demonstrating expertise in IoT management, AWS services, and regulatory adherence.
 
 # Skills Learned
 <ul>

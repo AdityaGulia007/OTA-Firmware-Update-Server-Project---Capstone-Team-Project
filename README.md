@@ -40,9 +40,11 @@ The Over-the-Air Defenders (OTA) Project aimed to develop a secure and efficient
   <li>Implement blockchain logging and decentralized database functionality.</li>
 
 <b>Testing</b>
+<ul>
   <li>Validate OTA framework functionality and connectivity of Arduino devices.</li>
   <li>Test blockchain and database models for scalability and performance.</li>
   <li>Review UI design for usability and accessibility.</li>
+</ul>
 
 <b>Deployment</b>
   <li>Deploy the production-ready OTA firmware update system.</li>

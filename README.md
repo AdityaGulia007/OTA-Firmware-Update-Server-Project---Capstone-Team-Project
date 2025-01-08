@@ -71,3 +71,10 @@ The Over-the-Air Defenders (OTA) Project aimed to develop a secure and efficient
   <li>Use AWS IoT Analytics for continuous monitoring and performance tracking.</li>
   <li>Update incident response playbooks and refine system features based on feedback.</li>
 </ul>
+
+# Screenshots
+![Ardueno](https://github.com/user-attachments/assets/5f194d39-efd4-4a99-8039-6014c257545a)
+![Gantt chart](https://github.com/user-attachments/assets/3026c598-4d70-4fed-b239-f994dcccdd48)
+![updating firmware 2 0](https://github.com/user-attachments/assets/304427fb-d78a-4abb-8136-bd6d73c0fdcf)
+![updating firmware](https://github.com/user-attachments/assets/b09e617d-d0f4-42e8-a51b-e34a88c93af9)
+

@@ -24,37 +24,36 @@ The Over-the-Air Defenders (OTA) Project aimed to develop a secure and efficient
 </ul>
 
 # Steps
-1. Requirements Gathering
-
+<b>Requirements Gathering</b><br>
 Define the project scope and regulatory requirements (UNECE WP.29, ISO/SAE 21434).
 Identify hardware/software specifications and user interface needs.
-2. System Design
 
+<b>System Design</b><br>
 Develop an OTA update framework using AWS IoT Core.
 Design a decentralized database architecture and integrate blockchain for secure tracking.
 Create UI wireframes for intuitive system management.
-3. Implementation
 
+<b>Implementation</b><br>
 Configure Arduino devices with Wi-Fi modules.
 Set up AWS IoT infrastructure and deploy initial OTA framework.
 Integrate RSA cryptography for secure updates.
 Implement blockchain logging and decentralized database functionality.
-4. Testing
 
+<b>Testing</b><br>
 Validate OTA framework functionality and connectivity of Arduino devices.
 Test blockchain and database models for scalability and performance.
 Review UI design for usability and accessibility.
-5. Deployment
 
+<b>Deployment</b><br>
 Deploy the production-ready OTA firmware update system.
 Launch decentralized database and blockchain logging servers.
 Finalize the secure and user-friendly admin interface.
-6. Risk Management
 
+<b>Risk Management</b><br>
 Implement role-based access control and audit logs to mitigate insider threats.
 Conduct regular assessments to address blockchain and OTA vulnerabilities.
 Maintain compliance with cybersecurity standards and regulations.
-7. Monitoring and Improvement
 
+<b>Monitoring and Improvement</b><br>
 Use AWS IoT Analytics for continuous monitoring and performance tracking.
 Update incident response playbooks and refine system features based on feedback.
